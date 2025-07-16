@@ -1,0 +1,14 @@
+# Dependency folders
+node_modules
+.expo
+.next
+dist
+
+# Env and build
+.env
+.env.local
+
+# OS / Editor
+.DS_Store
+.vscode
+.idea
